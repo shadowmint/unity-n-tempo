@@ -1,0 +1,11 @@
+{
+  "name": "tests",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "unity-n-systems": "github:shadowmint/unity-n-systems",
+    "unity-n-tempo": "file:.."
+  }
+}

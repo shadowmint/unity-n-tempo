@@ -1,0 +1,27 @@
+{
+  "name": "unity-n-tempo",
+  "version": "0.0.1",
+  "description": "Common beat and tween functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowmint/unity-n-tempo.git"
+  },
+  "files": [
+    "index.js",
+    "scripts",
+    "src"
+  ],
+  "author": "douglas.linder@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowmint/unity-n-tempo/issues"
+  },
+  "homepage": "https://github.com/shadowmint/unity-n-tempo",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+    "unity-n-systems": "github:shadowmint/unity-n-systems"
+  }
+}
